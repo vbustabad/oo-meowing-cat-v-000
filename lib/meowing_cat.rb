@@ -1,1 +1,2 @@
-## code your solution here. 
+maru = Cat.new 
+attr_accessor :name :meow
