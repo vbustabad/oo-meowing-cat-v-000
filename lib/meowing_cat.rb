@@ -1,5 +1,6 @@
+class Cat
+  attr_accessor :name
+end
+
 maru = Cat.new
-
-attr_accessor :name
-
 maru.name = "Maru"
